@@ -1,4 +1,7 @@
 # 2023_Audio-Recorder
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3630bf910adf485ab520ceb7916033d9)](https://app.codacy.com/gh/matf-pp/2023_Audio-Recorder?utm_source=github.com&utm_medium=referral&utm_content=matf-pp/2023_Audio-Recorder&utm_campaign=Badge_Grade)
+
 Projekat izrađen u okviru kursa [Programske paradigme](http://www.programskijezici.matf.bg.ac.rs/ProgramskeParadigmeI.html) napisan na programskom jeziku **Rust**.
 
 Aplikacija Audio-Recorder namenjena je za snimanje zvuka i predviđena je za rad u terminalu.
